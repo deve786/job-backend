@@ -1,0 +1,24 @@
+{
+  "job": [
+    {
+      "title": "Developer",
+      "company": "Ibm",
+      "experience": "5",
+      "location": "calicut",
+      "description": "godd",
+      "technologies": ".NET, AngularJS, ReactJSss",
+      "id": 1
+    }
+  ],
+  "apply": [
+    {
+      "title": "Developer",
+      "company": "Ibm",
+      "experience": "5",
+      "location": "calicut",
+      "description": "godd",
+      "technologies": ".NET, AngularJS, ReactJSss",
+      "id": 1
+    }
+  ]
+}
