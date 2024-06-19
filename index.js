@@ -10,7 +10,7 @@ server.use(middle)
 server.use(cors())
 server.use(db)
 
-const PORT=8000
+const PORT=8001
 server.listen(PORT,()=>{
     console.log(`Port running at ${PORT}`);
 })

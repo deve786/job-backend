@@ -1,4 +1,50 @@
 {
-  "job": [],
-  "apply": []
+  "job": [
+    {
+      "title": "Full Stack Developer",
+      "company": "Eighty Six Media LLC",
+      "experience": "3",
+      "salary": "20000",
+      "location": "Kochi, Kerala",
+      "description": "Do you love building beautiful and functional web applications? Are you comfortable working on both the user-facing side and the server-side? If so, then we want to hear from you!\n\nWe are searching for a talented Full Stack Developer to join our growing team. In this role, you will be responsible for the entire development lifecycle of our web projects, from developing user interfaces to building robust back-end systems.",
+      "technologies": "GIthub React Mongo Express",
+      "postedAt": 1718779943409,
+      "id": 1
+    },
+    {
+      "title": "Junior Python Developer",
+      "company": "Edsol Technologies ( OPC ) PRIVATE LIMITED",
+      "experience": "1",
+      "salary": "35,000",
+      "location": "Kochi, Kerala",
+      "description": "We are hiring Freshers for Developer Role across languages of\n\nPython and Software Developer as well\n\nTraining from company's end will be Provided.\n\nRelocation to Job posting Location is required.\n\nInterested candidates can apply at the earliest !",
+      "technologies": "Python Django",
+      "postedAt": 1718793837717,
+      "id": 2
+    },
+    {
+      "title": "Python Developer",
+      "company": "Edsol Technologies ( OPC ) PRIVATE LIMITED",
+      "experience": "5",
+      "salary": "650000",
+      "location": "Calicut",
+      "description": "We are hiring Freshers for Developer Role across languages of\n\nPython and Software Developer as well\n\nTraining from company's end will be Provided.\n\nRelocation to Job posting Location is required.\n\nInterested candidates can apply at the earliest !",
+      "technologies": "Python  Django",
+      "postedAt": 1718793980680,
+      "id": 3
+    }
+  ],
+  "apply": [
+    {
+      "title": "Full Stack Developer",
+      "company": "Eighty Six Media LLC",
+      "experience": "4",
+      "salary": "40,000",
+      "location": "Kochi, Kerala",
+      "description": "Do you love building beautiful and functional web applications? Are you comfortable working on both the user-facing side and the server-side? If so, then we want to hear from you!\n\nWe are searching for a talented Full Stack Developer to join our growing team. In this role, you will be responsible for the entire development lifecycle of our web projects, from developing user interfaces to building robust back-end systems.",
+      "technologies": "React Node MongoDb Express",
+      "postedAt": 1718776782830,
+      "id": 1
+    }
+  ]
 }
